@@ -1,6 +1,7 @@
 ---
 title: "Geocoding MicroMVD"
 url: "/micromvds-for-exchange-requirements-geocoding-micromvd/"
+parent: "/micromvds-for-exchange-requirements/"
 aliases: ["/Geocoding_MicroMVD/", "/MicroMVDs_for_exchange_requirements/Geocoding_MicroMVD/"]
 categories: ["BIMTester", "MicroMVD", "Model View Definitions (MVD)"]
 lastmod: "2022-07-28T11:22:30Z"

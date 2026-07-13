@@ -1,6 +1,7 @@
 ---
 title: "Bonsai Quantity Takeoff"
 url: "/bonsai-quantity-takeoff/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/Bonsai_QuantityTakeoff/", "/blenderbim-add-on-bonsai-quantitytakeoff/"]
 categories: []
 lastmod: "2025-01-05T09:16:36Z"

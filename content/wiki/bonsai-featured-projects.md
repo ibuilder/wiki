@@ -1,6 +1,7 @@
 ---
 title: "Bonsai featured projects"
 url: "/bonsai-featured-projects/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/BlenderBIM_Add-on_featured_projects/", "/BlenderBIM_Add-on_featured_projects/", "/blenderbim-add-on-blenderbim-add-on-featured-projects/"]
 categories: ["Bonsai"]
 lastmod: "2022-07-27T14:02:17Z"

@@ -1,6 +1,7 @@
 ---
 title: "FreeCAD setup"
 url: "/freecad-freecad-setup/"
+parent: "/freecad/"
 aliases: ["/FreeCAD/FreeCAD_setup/", "/FreeCAD_setup/"]
 categories: ["FreeCAD", "Software"]
 lastmod: "2022-07-26T14:14:21Z"

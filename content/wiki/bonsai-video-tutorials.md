@@ -1,6 +1,7 @@
 ---
 title: "Video Tutorials"
 url: "/bonsai-video-tutorials/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/Video_Tutorials/", "/blenderbim-add-on-video-tutorials/"]
 categories: []
 lastmod: "2025-09-22T18:51:28Z"

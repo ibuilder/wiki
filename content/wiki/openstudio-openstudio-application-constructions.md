@@ -1,6 +1,7 @@
 ---
 title: "Constructions"
 url: "/openstudio-openstudio-application-constructions/"
+parent: "/openstudio-openstudio-application/"
 aliases: ["/OpenStudio/OpenStudio_Application/Constructions/"]
 categories: ["OpenStudio Application"]
 lastmod: "2025-04-25T18:15:31Z"

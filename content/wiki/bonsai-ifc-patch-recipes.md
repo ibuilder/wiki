@@ -1,6 +1,7 @@
 ---
 title: "IFC Patch Recipes"
 url: "/bonsai-ifc-patch-recipes/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/IFC_Patch_Recipes/", "/blenderbim-add-on-ifc-patch-recipes/"]
 categories: []
 lastmod: "2023-05-09T14:47:32Z"

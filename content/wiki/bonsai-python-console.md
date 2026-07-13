@@ -1,6 +1,7 @@
 ---
 title: "Using the Python console with Bonsai"
 url: "/bonsai-python-console/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/Using_the_Python_console_with_BlenderBIM_Add-on/", "/Using_the_Python_console_with_BlenderBIM_Add-on/", "/blenderbim-add-on-using-the-python-console-with-blenderbim-add-on/", "/bonsai-using-the-python-console-with-bonsai/"]
 categories: ["Blender", "Bonsai"]
 lastmod: "2024-10-29T09:49:04Z"

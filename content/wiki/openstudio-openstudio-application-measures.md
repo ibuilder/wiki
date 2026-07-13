@@ -1,6 +1,7 @@
 ---
 title: "Measures"
 url: "/openstudio-openstudio-application-measures/"
+parent: "/openstudio-openstudio-application/"
 aliases: ["/OpenStudio/OpenStudio_Application/Measures/"]
 categories: []
 lastmod: "2025-04-25T17:50:06Z"

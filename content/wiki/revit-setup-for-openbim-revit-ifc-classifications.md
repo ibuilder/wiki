@@ -1,6 +1,7 @@
 ---
 title: "Revit IFC classifications"
 url: "/revit-setup-for-openbim-revit-ifc-classifications/"
+parent: "/revit-setup-for-openbim/"
 aliases: ["/Revit_IFC_classifications/", "/Revit_classifications/", "/Revit_setup_for_OpenBIM/Revit_IFC_classifications/"]
 categories: ["Autodesk Revit"]
 lastmod: "2022-01-31T10:39:01Z"

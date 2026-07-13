@@ -18,6 +18,7 @@ title: "Example article"
 url: "/example-article/"
 aliases: ["/Old_MediaWiki_title/"]
 categories: ["Documentation"]
+parent: "/parent-article/"
 ---
 ```
 
@@ -25,6 +26,9 @@ categories: ["Documentation"]
   to `aliases` so existing links continue to work.
 - Categories are ordinary strings. Reuse a spelling already shown on the
   `/categories/` page rather than creating a near-duplicate.
+- For a subpage, set `parent` to its immediate parent's canonical `url`. A
+  parent page can render its direct children with `{{</* subpages */>}}`.
+  Subpage relationships are independent of filenames and URL nesting.
 - Put uploaded files in `static/media/` and reference them as `/media/name.png`.
 - Featured links in the left navigation are selected in
   `data/featured_pages.yaml`.
@@ -75,8 +79,9 @@ updated** requires no database or scheduled task.
 The build must have full Git history. The deployment workflow therefore checks
 out with `fetch-depth: 0`. A shallow checkout can give incomplete dates. Before
 the repository has its first commit, the updater safely retains the imported
-`lastmod` values. The initial import commit will give all tracked files a common
-Git date; the list becomes naturally useful as pages receive subsequent edits.
+`lastmod` values. An article with only the initial import commit also retains
+its MediaWiki date. Git becomes authoritative after a later commit changes that
+article, so the list becomes naturally useful as pages receive subsequent edits.
 `hugo server` does not run the updater, so run `scripts/build.sh` when you need
 to verify dates and the final Recent changes ordering.
 

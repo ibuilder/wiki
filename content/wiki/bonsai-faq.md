@@ -1,6 +1,7 @@
 ---
 title: "Bonsai FAQ"
 url: "/bonsai-faq/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/BlenderBIM_Add-on_FAQ/", "/BlenderBIM_Add-on_FAQ/", "/blenderbim-add-on-blenderbim-add-on-faq/"]
 categories: ["Bonsai", "Software"]
 lastmod: "2024-04-16T14:27:11Z"

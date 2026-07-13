@@ -1,6 +1,7 @@
 ---
 title: "Element classes MicroMVD"
 url: "/micromvds-for-exchange-requirements-element-classes-micromvd/"
+parent: "/micromvds-for-exchange-requirements/"
 aliases: ["/Element_classes_MicroMVD/", "/MicroMVDs_for_exchange_requirements/Element_classes_MicroMVD/"]
 categories: ["BIMTester", "MicroMVD", "Model View Definitions (MVD)"]
 lastmod: "2022-07-28T11:22:29Z"

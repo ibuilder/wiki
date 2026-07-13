@@ -1,6 +1,7 @@
 ---
 title: "Bonsai and COBie"
 url: "/bonsai-and-cobie/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/BlenderBIM_and_COBie/", "/BlenderBIM_and_COBie/", "/blenderbim-add-on-blenderbim-and-cobie/"]
 categories: ["Bonsai"]
 lastmod: "2022-07-28T11:13:48Z"

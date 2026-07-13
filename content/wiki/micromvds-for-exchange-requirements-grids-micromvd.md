@@ -1,6 +1,7 @@
 ---
 title: "Grids MicroMVD"
 url: "/micromvds-for-exchange-requirements-grids-micromvd/"
+parent: "/micromvds-for-exchange-requirements/"
 aliases: ["/Grids_MicroMVD/", "/MicroMVDs_for_exchange_requirements/Grids_MicroMVD/"]
 categories: []
 lastmod: "2022-07-28T11:22:31Z"

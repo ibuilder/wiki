@@ -1,6 +1,7 @@
 ---
 title: "OpenStudio Application"
 url: "/openstudio-openstudio-application/"
+parent: "/openstudio/"
 aliases: ["/OpenStudio/OpenStudio_Application/"]
 categories: ["OpenStudio"]
 lastmod: "2025-05-04T03:38:01Z"
@@ -45,3 +46,4 @@ The OpenStudio Application can be downloaded for Mac, Linux, and Windows by logg
 - {{< wiki-image src="/media/on-results-tab.png" alt="On results tab.png" mode="inline" >}} Results Summary
 
 ## Subpages
+{{< subpages >}}

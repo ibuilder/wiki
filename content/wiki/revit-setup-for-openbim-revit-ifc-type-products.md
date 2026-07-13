@@ -1,6 +1,7 @@
 ---
 title: "Revit IFC type products"
 url: "/revit-setup-for-openbim-revit-ifc-type-products/"
+parent: "/revit-setup-for-openbim/"
 aliases: ["/Revit_IFC_type_products/", "/Revit_setup_for_OpenBIM/Revit_IFC_type_products/", "/Revit_type_products/"]
 categories: ["Autodesk Revit"]
 lastmod: "2022-01-31T10:41:35Z"

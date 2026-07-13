@@ -1,6 +1,7 @@
 ---
 title: "IFC syntax highlighting"
 url: "/ifc-industry-foundation-classes-ifc-syntax-highlighting/"
+parent: "/ifc-industry-foundation-classes/"
 aliases: ["/IFC_-_Industry_Foundation_Classes/IFC_syntax_highlighting/", "/IFC_syntax_highlighting/", "/Industry_Foundation_Classes_(IFC)/IFC_syntax_highlighting/"]
 categories: ["Industry Foundation Classes (IFC)"]
 lastmod: "2022-07-28T10:21:43Z"

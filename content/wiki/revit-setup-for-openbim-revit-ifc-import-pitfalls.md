@@ -1,6 +1,7 @@
 ---
 title: "Revit IFC import pitfalls"
 url: "/revit-setup-for-openbim-revit-ifc-import-pitfalls/"
+parent: "/revit-setup-for-openbim/"
 aliases: ["/Revit_IFC_import_pitfalls/", "/Revit_import_pitfalls/", "/Revit_setup_for_OpenBIM/Revit_IFC_import_pitfalls/"]
 categories: ["Autodesk Revit", "IFC invalid practices", "Industry Foundation Classes (IFC)", "Proprietary software"]
 lastmod: "2022-01-31T10:40:04Z"

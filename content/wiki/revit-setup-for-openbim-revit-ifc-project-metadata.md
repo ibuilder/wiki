@@ -1,6 +1,7 @@
 ---
 title: "Revit IFC project metadata"
 url: "/revit-setup-for-openbim-revit-ifc-project-metadata/"
+parent: "/revit-setup-for-openbim/"
 aliases: ["/Revit_IFC_project_metadata/", "/Revit_project_metadata/", "/Revit_setup_for_OpenBIM/Revit_IFC_project_metadata/"]
 categories: ["Autodesk Revit"]
 lastmod: "2022-01-31T10:40:29Z"

@@ -1,6 +1,7 @@
 ---
 title: "IFC geolocation"
 url: "/ifc-industry-foundation-classes-ifc-geolocation/"
+parent: "/ifc-industry-foundation-classes/"
 aliases: ["/IFC_-_Industry_Foundation_Classes/IFC_geolocation/", "/IFC_geolocation/", "/Industry_Foundation_Classes_(IFC)/IFC_geolocation/"]
 categories: ["Industry Foundation Classes (IFC)"]
 lastmod: "2022-08-18T14:29:12Z"

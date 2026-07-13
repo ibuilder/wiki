@@ -1,6 +1,7 @@
 ---
 title: "IFC spatial tree"
 url: "/ifc-industry-foundation-classes-ifc-spatial-tree/"
+parent: "/ifc-industry-foundation-classes/"
 aliases: ["/IFC_-_Industry_Foundation_Classes/IFC_spatial_tree/", "/IFC_spatial_tree/", "/Industry_Foundation_Classes_(IFC)/IFC_spatial_tree/"]
 categories: ["Industry Foundation Classes (IFC)"]
 lastmod: "2022-07-28T10:21:43Z"

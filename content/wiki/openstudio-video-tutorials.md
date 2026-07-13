@@ -1,6 +1,7 @@
 ---
 title: "Video Tutorials"
 url: "/openstudio-video-tutorials/"
+parent: "/openstudio/"
 aliases: ["/OpenStudio/Video_Tutorials/"]
 categories: ["OpenStudio"]
 lastmod: "2025-05-05T20:23:58Z"

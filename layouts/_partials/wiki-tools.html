@@ -8,6 +8,15 @@
     <a href="{{ $history }}">View history</a>
     <a href="https://community.osarch.org/">Discuss</a>
   </div>
+  {{ with .Params.parent }}
+    {{ $parents := where site.RegularPages "RelPermalink" . }}
+    {{ with index $parents 0 }}
+    <div class="wiki-context">
+      <h2>Part of</h2>
+      <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    </div>
+    {{ end }}
+  {{ end }}
   {{ if gt (len .TableOfContents) 32 }}
   <div class="wiki-toc">
     <h2>On this page</h2>

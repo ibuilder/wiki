@@ -21,7 +21,7 @@ lastmod: "2023-11-05T14:53:15Z"
 
 This is the front page of a series of pages about FreeCAD
 ## Subpages
-
+{{< subpages >}}
 
 ## Introduction
 FreeCAD is an open-source, extensible, parametric 2D and 3D modeler primarily designed for mechanical engineering but which can be used in many different fields like machining, CNC routing, 3D printing, static and thermal finite element analysis, and of course, architecture and construction. Parametric modeling allows you to modify your design by going back into your model history and changing its parameters.

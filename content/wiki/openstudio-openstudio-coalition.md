@@ -1,6 +1,7 @@
 ---
 title: "OpenStudio Coalition"
 url: "/openstudio-openstudio-coalition/"
+parent: "/openstudio/"
 aliases: ["/OpenStudio/OpenStudio_Coalition/"]
 categories: ["OpenStudio"]
 lastmod: "2025-04-24T15:23:06Z"

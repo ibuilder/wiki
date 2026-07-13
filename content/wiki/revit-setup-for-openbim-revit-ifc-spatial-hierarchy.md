@@ -1,6 +1,7 @@
 ---
 title: "Revit IFC spatial hierarchy"
 url: "/revit-setup-for-openbim-revit-ifc-spatial-hierarchy/"
+parent: "/revit-setup-for-openbim/"
 aliases: ["/Revit_IFC_spatial_hierarchy/", "/Revit_setup_for_OpenBIM/Revit_IFC_spatial_hierarchy/", "/Revit_spatial_hierarchy/"]
 categories: ["Autodesk Revit"]
 lastmod: "2022-01-31T10:41:00Z"

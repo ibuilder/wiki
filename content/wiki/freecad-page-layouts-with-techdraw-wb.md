@@ -1,6 +1,7 @@
 ---
 title: "Page layouts with TechDraw WB"
 url: "/freecad-page-layouts-with-techdraw-wb/"
+parent: "/freecad/"
 aliases: ["/FreeCAD/Page_layouts_with_TechDraw_WB/", "/Page_layouts_with_TechDraw_WB/"]
 categories: ["FreeCAD"]
 lastmod: "2023-11-05T15:00:50Z"

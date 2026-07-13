@@ -1,6 +1,7 @@
 ---
 title: "Bonsai installation"
 url: "/bonsai-installation/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/BlenderBIM_Add-on_installation/", "/BlenderBIM_Add-on_installation/", "/How_to_install_the_BlenderBIM_Add-on/", "/blenderbim-add-on-blenderbim-add-on-installation/"]
 categories: ["Bonsai"]
 lastmod: "2022-07-27T14:01:02Z"

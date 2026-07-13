@@ -1,6 +1,7 @@
 ---
 title: "OpenStudio Server"
 url: "/openstudio-openstudio-server/"
+parent: "/openstudio/"
 aliases: ["/OpenStudio/OpenStudio_Server/"]
 categories: ["OpenStudio"]
 lastmod: "2025-04-22T13:55:56Z"

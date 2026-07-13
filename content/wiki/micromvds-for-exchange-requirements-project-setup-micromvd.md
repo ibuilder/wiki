@@ -1,6 +1,7 @@
 ---
 title: "Project setup MicroMVD"
 url: "/micromvds-for-exchange-requirements-project-setup-micromvd/"
+parent: "/micromvds-for-exchange-requirements/"
 aliases: ["/MicroMVDs_for_exchange_requirements/Project_setup_MicroMVD/", "/Project_setup_MicroMVD/"]
 categories: ["Autodesk Revit", "BIMTester", "MicroMVD", "Model View Definitions (MVD)"]
 lastmod: "2022-07-28T11:22:32Z"

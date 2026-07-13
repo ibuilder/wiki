@@ -1,6 +1,7 @@
 ---
 title: "Representation Context"
 url: "/ifc-industry-foundation-classes-representation-context/"
+parent: "/ifc-industry-foundation-classes/"
 aliases: ["/IFC_-_Industry_Foundation_Classes/Representation_Context/"]
 categories: []
 lastmod: "2025-04-16T15:55:31Z"

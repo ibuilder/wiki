@@ -1,6 +1,7 @@
 ---
 title: "Building Component Library"
 url: "/openstudio-building-component-library/"
+parent: "/openstudio/"
 aliases: ["/OpenStudio/Building_Component_Library/"]
 categories: ["OpenStudio"]
 lastmod: "2025-04-29T01:42:22Z"

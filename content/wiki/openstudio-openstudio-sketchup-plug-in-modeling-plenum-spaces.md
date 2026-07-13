@@ -1,6 +1,7 @@
 ---
 title: "Modeling Plenum Spaces"
 url: "/openstudio-openstudio-sketchup-plug-in-modeling-plenum-spaces/"
+parent: "/openstudio-openstudio-sketchup-plug-in/"
 aliases: ["/OpenStudio/OpenStudio_SketchUp_Plug-in/Modeling_Plenum_Spaces/"]
 categories: ["OpenStudio SketchUp Plug-in"]
 lastmod: "2025-04-24T15:37:17Z"

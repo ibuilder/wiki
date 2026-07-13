@@ -1,6 +1,7 @@
 ---
 title: "OpenStudio SDK"
 url: "/openstudio-openstudio-sdk/"
+parent: "/openstudio/"
 aliases: ["/OpenStudio/OpenStudio_SDK/"]
 categories: ["OpenStudio"]
 lastmod: "2025-04-22T17:45:36Z"

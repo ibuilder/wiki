@@ -1,6 +1,7 @@
 ---
 title: "Bonsai Changelog"
 url: "/bonsai-changelog/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/BlenderBIM_Add-on_Changelog/", "/BlenderBIM_Add-on_Changelog/", "/blenderbim-add-on-blenderbim-add-on-changelog/"]
 categories: ["Bonsai"]
 lastmod: "2022-08-22T20:03:01Z"

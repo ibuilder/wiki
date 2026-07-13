@@ -1,6 +1,7 @@
 ---
 title: "Shortcuts"
 url: "/bonsai-shortcuts/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/Shortcuts/", "/blenderbim-add-on-shortcuts/"]
 categories: []
 lastmod: "2024-09-01T03:00:00Z"

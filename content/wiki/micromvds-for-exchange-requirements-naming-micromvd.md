@@ -1,6 +1,7 @@
 ---
 title: "Naming MicroMVD"
 url: "/micromvds-for-exchange-requirements-naming-micromvd/"
+parent: "/micromvds-for-exchange-requirements/"
 aliases: ["/MicroMVDs_for_exchange_requirements/Naming_MicroMVD/", "/Naming_MicroMVD/"]
 categories: ["BIMTester", "MicroMVD", "Model View Definitions (MVD)"]
 lastmod: "2022-07-28T11:22:31Z"

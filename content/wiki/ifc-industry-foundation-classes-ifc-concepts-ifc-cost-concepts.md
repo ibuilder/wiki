@@ -1,6 +1,7 @@
 ---
 title: "IFC cost concepts"
 url: "/ifc-industry-foundation-classes-ifc-concepts-ifc-cost-concepts/"
+parent: "/ifc-industry-foundation-classes-ifc-concepts/"
 aliases: ["/IFC_-_Industry_Foundation_Classes/IFC_concepts/IFC_cost_concepts/", "/Industry_Foundation_Classes_(IFC)/IFC_concepts/IFC_cost_concepts/"]
 categories: []
 lastmod: "2022-07-28T10:21:41Z"

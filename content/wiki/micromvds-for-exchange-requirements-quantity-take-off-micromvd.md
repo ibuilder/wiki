@@ -1,6 +1,7 @@
 ---
 title: "Quantity take-off MicroMVD"
 url: "/micromvds-for-exchange-requirements-quantity-take-off-micromvd/"
+parent: "/micromvds-for-exchange-requirements/"
 aliases: ["/MicroMVDs_for_exchange_requirements/Quantity_take-off_MicroMVD/", "/Quantity_take-off_MicroMVD/"]
 categories: ["BIMTester", "Bonsai", "MicroMVD", "Model View Definitions (MVD)"]
 lastmod: "2022-07-28T11:22:32Z"

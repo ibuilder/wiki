@@ -1,6 +1,7 @@
 ---
 title: "Parametric Analysis Tool"
 url: "/openstudio-parametric-analysis-tool/"
+parent: "/openstudio/"
 aliases: ["/OpenStudio/Parametric_Analysis_Tool/"]
 categories: ["OpenStudio"]
 lastmod: "2025-04-22T17:47:02Z"

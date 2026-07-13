@@ -42,9 +42,6 @@ Inkscape
 LibreOffice
 
 
-## Subpages
-
-		
 ## Stage 1: Inception
 ## Stage 2: Concept and Viability
 ## Stage 3: Design Development

@@ -1,6 +1,7 @@
 ---
 title: "Sizing an HVAC System"
 url: "/openstudio-openstudio-application-sizing-an-hvac-system/"
+parent: "/openstudio-openstudio-application/"
 aliases: ["/OpenStudio/OpenStudio_Application/Sizing_an_HVAC_System/"]
 categories: ["OpenStudio Application"]
 lastmod: "2025-04-23T15:37:51Z"

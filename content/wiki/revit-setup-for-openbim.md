@@ -9,7 +9,7 @@ lastmod: "2025-05-07T06:57:05Z"
 > **Warning:** this page has not been audited for accuracy for Revit versions above 2018
 
 ## Subpages
-
+{{< subpages >}}
 
 [Autodesk Revit](/autodesk-revit/) does not come with strong official support for [Industry Foundation Classes (IFC)](/ifc-industry-foundation-classes/). This guidebook relies on [Revit](/autodesk-revit/) users using the [revit-ifc](https://github.com/Autodesk/revit-ifc) open-source Revit IFC plug-in. Although the plug-in comes bundled with Revit, the bundled version is usually outdated and contains bugs that prevent basic functionality from working (such as the ability to assign IFC type parameters using the official shared parameters file, [bug report](https://github.com/Autodesk/revit-ifc/issues/217)). It is therefore a requirement for productive output to update to the latest version using the download links below.
 

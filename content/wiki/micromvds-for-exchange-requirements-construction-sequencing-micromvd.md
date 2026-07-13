@@ -1,6 +1,7 @@
 ---
 title: "Construction sequencing MicroMVD"
 url: "/micromvds-for-exchange-requirements-construction-sequencing-micromvd/"
+parent: "/micromvds-for-exchange-requirements/"
 aliases: ["/Construction_sequencing_MicroMVD/", "/MicroMVDs_for_exchange_requirements/Construction_sequencing_MicroMVD/"]
 categories: []
 lastmod: "2022-07-28T11:22:29Z"

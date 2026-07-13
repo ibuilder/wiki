@@ -1,6 +1,7 @@
 ---
 title: "Excavation MicroMVD"
 url: "/micromvds-for-exchange-requirements-excavation-micromvd/"
+parent: "/micromvds-for-exchange-requirements/"
 aliases: ["/Excavation_MicroMVD/", "/MicroMVDs_for_exchange_requirements/Excavation_MicroMVD/"]
 categories: []
 lastmod: "2022-07-28T11:22:30Z"

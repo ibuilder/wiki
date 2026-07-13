@@ -1,6 +1,7 @@
 ---
 title: "IFC sequence concepts"
 url: "/ifc-industry-foundation-classes-ifc-concepts-ifc-sequence-concepts/"
+parent: "/ifc-industry-foundation-classes-ifc-concepts/"
 aliases: ["/IFC_-_Industry_Foundation_Classes/IFC_concepts/IFC_sequence_concepts/", "/Industry_Foundation_Classes_(IFC)/IFC_concepts/IFC_sequence_concepts/"]
 categories: ["Industry Foundation Classes (IFC)"]
 lastmod: "2022-07-28T10:21:42Z"

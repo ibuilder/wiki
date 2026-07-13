@@ -1,6 +1,7 @@
 ---
 title: "Bonsai Clash detection"
 url: "/bonsai-clash-detection/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/BlenderBIM_Add-on_Clash_detection/", "/BlenderBIM_Add-on_Clash_detection/", "/Clash_detection/", "/blenderbim-add-on-blenderbim-add-on-clash-detection/"]
 categories: ["Bonsai"]
 lastmod: "2022-07-27T14:02:05Z"

@@ -34,8 +34,8 @@ Unlike other auditing solutions like Solibri or SimpleBIM, MicroMVDs are non-pro
 ## List of MicroMVDs
 Although you are free to write your own MicroMVD specific to your project, a series of MicroMVDs have been published online that address common problems. You can copy and paste these templates into your own <code>*.feature</code> files, and modify it to suite your project.
 
-## Sub pages
-
+## Subpages
+{{< subpages >}}
 
 All MicroMVD can be found in [MicroMVD](/categories/micromvd/)
 

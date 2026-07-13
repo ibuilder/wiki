@@ -1,6 +1,7 @@
 ---
 title: "Bonsai code examples"
 url: "/bonsai-code-examples/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/BlenderBIM_Add-on_code_examples/", "/BlenderBIM_Add-on_code_examples/", "/blenderbim-add-on-blenderbim-add-on-code-examples/"]
 categories: ["Blender", "Bonsai"]
 lastmod: "2022-07-27T14:01:47Z"

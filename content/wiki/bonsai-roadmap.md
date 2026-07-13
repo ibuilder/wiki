@@ -1,6 +1,7 @@
 ---
 title: "Bonsai Roadmap"
 url: "/bonsai-roadmap/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/BlenderBIM_Add-on_Roadmap/", "/BlenderBIM_Add-on_Roadmap/", "/blenderbim-add-on-blenderbim-add-on-roadmap/"]
 categories: ["BIM Collaboration Format (BCF)", "Blender", "Bonsai"]
 lastmod: "2023-08-29T02:18:48Z"

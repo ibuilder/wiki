@@ -1,6 +1,7 @@
 ---
 title: "Geometry"
 url: "/openstudio-openstudio-application-geometry/"
+parent: "/openstudio-openstudio-application/"
 aliases: ["/OpenStudio/OpenStudio_Application/Geometry/"]
 categories: ["OpenStudio Application"]
 lastmod: "2025-05-04T03:29:46Z"

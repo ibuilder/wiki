@@ -1,6 +1,7 @@
 ---
 title: "Bonsai for building and exporting an IFC model"
 url: "/bonsai-for-building-and-exporting-an-ifc-model/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/BlenderBIM_Add-on_for_building_and_exporting_an_IFC_model/", "/BlenderBIM_Add-on_for_building_and_exporting_an_IFC_model/", "/Building_and_exporting_an_IFC_model_with_BlenderBIM_Add-on/", "/Exporting_an_IFC_model_with_BlenderBIM_Add-on/", "/blenderbim-add-on-blenderbim-add-on-for-building-and-exporting-an-ifc-model/"]
 categories: ["Blender", "Bonsai", "Industry Foundation Classes (IFC)"]
 lastmod: "2022-07-27T14:03:32Z"

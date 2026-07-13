@@ -1,6 +1,7 @@
 ---
 title: "Bonsai Setting up a BIM Project"
 url: "/bonsai-setting-up-a-bim-project/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/BlenderBIM_Add-on_Setting_up_a_BIM_Project/", "/BlenderBIM_Add-on_Setting_up_a_BIM_Project/", "/Setting_up_a_BIM_Project_with_BlenderBIM_Add-on/", "/blenderbim-add-on-blenderbim-add-on-setting-up-a-bim-project/"]
 categories: ["Blender", "Bonsai"]
 lastmod: "2022-07-27T14:40:28Z"

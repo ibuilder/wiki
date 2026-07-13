@@ -1,6 +1,7 @@
 ---
 title: "Revit IFC geolocation"
 url: "/revit-setup-for-openbim-revit-ifc-geolocation/"
+parent: "/revit-setup-for-openbim/"
 aliases: ["/Revit_IFC_geolocation/", "/Revit_geolocation/", "/Revit_setup_for_OpenBIM/Revit_IFC_geolocation/"]
 categories: ["Autodesk Revit"]
 lastmod: "2022-06-16T04:56:48Z"

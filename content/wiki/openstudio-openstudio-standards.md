@@ -1,6 +1,7 @@
 ---
 title: "OpenStudio Standards"
 url: "/openstudio-openstudio-standards/"
+parent: "/openstudio/"
 aliases: ["/OpenStudio/OpenStudio_Standards/"]
 categories: ["OpenStudio"]
 lastmod: "2025-04-22T17:48:26Z"

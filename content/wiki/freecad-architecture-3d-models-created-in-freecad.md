@@ -1,6 +1,7 @@
 ---
 title: "Architecture 3D models created in FreeCAD"
 url: "/freecad-architecture-3d-models-created-in-freecad/"
+parent: "/freecad/"
 aliases: ["/Architecture_3D_models_created_in_FreeCAD/", "/FreeCAD/Architecture_3D_models_created_in_FreeCAD/"]
 categories: ["FreeCAD"]
 lastmod: "2023-09-13T13:30:34Z"

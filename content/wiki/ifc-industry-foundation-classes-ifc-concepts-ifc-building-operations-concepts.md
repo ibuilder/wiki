@@ -1,6 +1,7 @@
 ---
 title: "IFC building operations concepts"
 url: "/ifc-industry-foundation-classes-ifc-concepts-ifc-building-operations-concepts/"
+parent: "/ifc-industry-foundation-classes-ifc-concepts/"
 aliases: ["/IFC_-_Industry_Foundation_Classes/IFC_concepts/IFC_building_operations_concepts/", "/Industry_Foundation_Classes_(IFC)/IFC_concepts/IFC_building_operations_concepts/"]
 categories: []
 lastmod: "2022-07-28T10:21:41Z"

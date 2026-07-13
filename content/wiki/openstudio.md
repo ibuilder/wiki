@@ -27,7 +27,7 @@ OpenStudio® is a cross-platform (Windows, Mac, and Linux) collection of softwar
 OpenStudio utilizes EnergyPlus as the engine for performing the building energy simulations. [The OpenStudio Coalition](/openstudio-the-openstudio-coalition/) is an organization founded to support the use of the OpenStudio Application.
 
 ## Subpages
-
+{{< subpages >}}
 
 ## OpenStudio's Suite of Tools
 OpenStudio comprises:

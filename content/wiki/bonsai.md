@@ -26,8 +26,8 @@ Bonsai is alpha software, expect things to change and break. It is not ready for
 
 You can find ways to offer financial support in the [Donation Directory](/donation-directory/).
 
-## Sub pages
-
+## Subpages
+{{< subpages >}}
 
 ## Features
 - [Featured projects](/bonsai-featured-projects/)

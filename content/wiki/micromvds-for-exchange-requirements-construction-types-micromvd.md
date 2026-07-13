@@ -1,6 +1,7 @@
 ---
 title: "Construction types MicroMVD"
 url: "/micromvds-for-exchange-requirements-construction-types-micromvd/"
+parent: "/micromvds-for-exchange-requirements/"
 aliases: ["/Construction_types_MicroMVD/", "/MicroMVDs_for_exchange_requirements/Construction_types_MicroMVD/"]
 categories: []
 lastmod: "2022-07-28T11:22:29Z"

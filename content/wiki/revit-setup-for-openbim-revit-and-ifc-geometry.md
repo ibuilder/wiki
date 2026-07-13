@@ -1,6 +1,7 @@
 ---
 title: "Revit and IFC Geometry"
 url: "/revit-setup-for-openbim-revit-and-ifc-geometry/"
+parent: "/revit-setup-for-openbim/"
 aliases: ["/Revit_and_IFC_Geometry/", "/Revit_setup_for_OpenBIM/Revit_and_IFC_Geometry/"]
 categories: ["Autodesk Revit"]
 lastmod: "2023-07-06T13:15:42Z"

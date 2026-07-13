@@ -1,6 +1,7 @@
 ---
 title: "Software Comparison"
 url: "/ifc-industry-foundation-classes-software-comparison/"
+parent: "/ifc-industry-foundation-classes/"
 aliases: ["/IFC_-_Industry_Foundation_Classes/Software_Comparison/"]
 categories: []
 lastmod: "2023-01-17T13:49:27Z"

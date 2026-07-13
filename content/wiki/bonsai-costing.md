@@ -1,6 +1,7 @@
 ---
 title: "Bonsai Costing"
 url: "/bonsai-costing/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/BlenderBIM_Costing/", "/BlenderBIM_Costing/", "/blenderbim-add-on-blenderbim-costing/"]
 categories: ["Blender", "Bonsai Costing", "Bonsai"]
 lastmod: "2025-04-14T06:07:03Z"

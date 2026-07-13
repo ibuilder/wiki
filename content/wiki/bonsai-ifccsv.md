@@ -1,6 +1,7 @@
 ---
 title: "Bonsai IFCCSV"
 url: "/bonsai-ifccsv/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/BlenderBIM_IFCCSV/", "/BlenderBIM_IFCCSV/", "/blenderbim-add-on-blenderbim-ifccsv/"]
 categories: ["Bonsai"]
 lastmod: "2024-05-10T18:13:26Z"

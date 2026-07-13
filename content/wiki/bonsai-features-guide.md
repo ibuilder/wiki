@@ -1,6 +1,7 @@
 ---
 title: "Bonsai Features Guide"
 url: "/bonsai-features-guide/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/BonsaiBIM_Features_Guide/", "/blenderbim-add-on-bonsaibim-features-guide/"]
 categories: []
 lastmod: "2026-05-20T10:05:04Z"

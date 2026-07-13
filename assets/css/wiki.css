@@ -67,3 +67,4 @@ body{color:#667d99;font-size:15px;line-height:1.3}
 .wiki-video{width:min(var(--wiki-video-width,800px),100%);max-width:100%;margin:1em 0}.wiki-video video{display:block;width:100%;height:auto;background:#000}.wiki-video figcaption{padding:6px 4px;color:var(--muted);font-size:13px;line-height:1.35}.wiki-video--right{float:right;clear:right;margin-left:1.4em}.wiki-video--left{float:left;clear:left;margin-right:1.4em}.wiki-video--center{margin-left:auto;margin-right:auto}
 /* Contribution actions lead the right sidebar; the page outline follows. */
 .wiki-tools .wiki-actions{border-bottom:1px solid var(--line);padding-bottom:18px;margin-bottom:20px}.wiki-tools .wiki-toc{border-bottom:0;padding-bottom:0;margin-bottom:0}
+.wiki-context{border-bottom:1px solid var(--line);padding-bottom:18px;margin-bottom:20px}.wiki-context a{display:block;color:var(--muted)}

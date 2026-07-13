@@ -1,0 +1,8 @@
+{{- $children := where site.RegularPages "Params.parent" .Page.RelPermalink -}}
+{{- with $children }}
+<ul class="subpage-list">
+  {{- range .ByTitle }}
+  <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+  {{- end }}
+</ul>
+{{- end }}

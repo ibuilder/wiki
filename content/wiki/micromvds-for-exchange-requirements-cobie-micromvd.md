@@ -1,6 +1,7 @@
 ---
 title: "COBie MicroMVD"
 url: "/micromvds-for-exchange-requirements-cobie-micromvd/"
+parent: "/micromvds-for-exchange-requirements/"
 aliases: ["/COBie_MicroMVD/", "/MicroMVDs_for_exchange_requirements/COBie_MicroMVD/"]
 categories: ["BIMTester", "MicroMVD", "Model View Definitions (MVD)"]
 lastmod: "2022-07-28T11:22:28Z"

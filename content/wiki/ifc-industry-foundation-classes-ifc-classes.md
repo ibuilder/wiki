@@ -1,6 +1,7 @@
 ---
 title: "IFC classes"
 url: "/ifc-industry-foundation-classes-ifc-classes/"
+parent: "/ifc-industry-foundation-classes/"
 aliases: ["/IFC_-_Industry_Foundation_Classes/IFC_classes/", "/IFC_classes/", "/Industry_Foundation_Classes_(IFC)/IFC_classes/"]
 categories: ["Industry Foundation Classes (IFC)"]
 lastmod: "2022-07-28T10:21:41Z"

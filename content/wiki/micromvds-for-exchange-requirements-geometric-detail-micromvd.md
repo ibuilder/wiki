@@ -1,6 +1,7 @@
 ---
 title: "Geometric detail MicroMVD"
 url: "/micromvds-for-exchange-requirements-geometric-detail-micromvd/"
+parent: "/micromvds-for-exchange-requirements/"
 aliases: ["/Geometric_detail_MicroMVD/", "/MicroMVDs_for_exchange_requirements/Geometric_detail_MicroMVD/"]
 categories: ["BIMTester", "MicroMVD", "Model View Definitions (MVD)"]
 lastmod: "2022-07-28T11:22:30Z"

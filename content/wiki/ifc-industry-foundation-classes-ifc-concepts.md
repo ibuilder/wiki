@@ -1,6 +1,7 @@
 ---
 title: "IFC concepts"
 url: "/ifc-industry-foundation-classes-ifc-concepts/"
+parent: "/ifc-industry-foundation-classes/"
 aliases: ["/IFC_-_Industry_Foundation_Classes/IFC_concepts/", "/IFC_concepts/", "/Industry_Foundation_Classes_(IFC)/IFC_concepts/"]
 categories: ["Industry Foundation Classes (IFC)"]
 lastmod: "2022-07-28T10:21:41Z"
@@ -13,7 +14,7 @@ The IFC specification defines how [IFC classes](/ifc-industry-foundation-classes
 The concepts and their nuances are described in full in the IFC documentation, but this is often difficult to understand. This IFC concept guide offers a crash course, similar to a phrasebook for learning native IFC.
 
 ## Subpages
-
+{{< subpages >}}
 
 Pages we'd like to see
 - [IFC concepts/IFC spatial concepts](/IFC_concepts/IFC_spatial_concepts/)

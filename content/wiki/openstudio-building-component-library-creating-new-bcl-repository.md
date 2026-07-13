@@ -1,6 +1,7 @@
 ---
 title: "Creating New BCL Repository"
 url: "/openstudio-building-component-library-creating-new-bcl-repository/"
+parent: "/openstudio-building-component-library/"
 aliases: ["/OpenStudio/Building_Component_Library/Creating_New_BCL_Repository/"]
 categories: ["Building Component Library"]
 lastmod: "2025-04-29T01:20:27Z"

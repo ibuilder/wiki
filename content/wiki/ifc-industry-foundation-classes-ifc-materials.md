@@ -1,6 +1,7 @@
 ---
 title: "IFC materials"
 url: "/ifc-industry-foundation-classes-ifc-materials/"
+parent: "/ifc-industry-foundation-classes/"
 aliases: ["/IFC_-_Industry_Foundation_Classes/IFC_materials/", "/IFC_materials/", "/Industry_Foundation_Classes_(IFC)/IFC_materials/"]
 categories: ["Industry Foundation Classes (IFC)"]
 lastmod: "2023-03-11T15:42:08Z"

@@ -1,6 +1,7 @@
 ---
 title: "Bonsai exporting 2D documentation"
 url: "/bonsai-exporting-2d-documentation/"
+parent: "/bonsai/"
 aliases: ["/BlenderBIM_Add-on/BlenderBIM_Add-on_exporting_2D_documentation/", "/BlenderBIM_Add-on_exporting_2D_documentation/", "/BlenderBIM_Add-on_pages_Exporting_2D_documentation/", "/Exporting_2D_documentation_with_BlenderBIM_Add-on/", "/blenderbim-add-on-blenderbim-add-on-exporting-2d-documentation/"]
 categories: ["Blender", "Bonsai"]
 lastmod: "2024-11-07T23:31:35Z"

@@ -1,6 +1,7 @@
 ---
 title: "Building Envelope Specification"
 url: "/openstudio-openstudio-application-building-envelope-specification/"
+parent: "/openstudio-openstudio-application/"
 aliases: ["/OpenStudio/OpenStudio_Application/Building_Envelope_Specification/"]
 categories: ["OpenStudio Application"]
 lastmod: "2025-04-22T18:30:08Z"

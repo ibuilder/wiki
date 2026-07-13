@@ -1,6 +1,7 @@
 ---
 title: "BCF-Plugin-FreeCAD"
 url: "/freecad-bcf-plugin-freecad/"
+parent: "/freecad/"
 aliases: ["/BCF-Plugin-FreeCAD/", "/FreeCAD/BCF-Plugin-FreeCAD/"]
 categories: ["BIM Collaboration Format (BCF)", "FreeCAD", "FreeCAD add-on"]
 lastmod: "2022-02-15T08:52:32Z"

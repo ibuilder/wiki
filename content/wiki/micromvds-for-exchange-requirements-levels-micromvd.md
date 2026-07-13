@@ -1,6 +1,7 @@
 ---
 title: "Levels MicroMVD"
 url: "/micromvds-for-exchange-requirements-levels-micromvd/"
+parent: "/micromvds-for-exchange-requirements/"
 aliases: ["/Levels_MicroMVD/", "/MicroMVDs_for_exchange_requirements/Levels_MicroMVD/"]
 categories: []
 lastmod: "2022-07-28T11:22:31Z"

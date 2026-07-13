@@ -30,17 +30,25 @@ def main() -> int:
 
     updated = 0
     for path in sorted(args.content.glob("*.md")):
+        if path.name.startswith("_"):
+            continue
         relative = path.resolve().relative_to(root.resolve())
         result = subprocess.run(
-            ["git", "-C", str(root), "log", "-1", "--format=%cI", "--", str(relative)],
+            ["git", "-C", str(root), "log", "--format=%cI", "--", str(relative)],
             check=True,
             capture_output=True,
             text=True,
         )
-        timestamp = result.stdout.strip()
-        if not timestamp:
+        timestamps = result.stdout.splitlines()
+        if not timestamps:
             continue
         source = path.read_text(encoding="utf-8")
+        # The repository's initial import touched every article at once. Keep
+        # MediaWiki's imported date until a later Git commit genuinely changes
+        # the file; otherwise the first build makes the whole wiki look new.
+        if len(timestamps) == 1 and re.search(r"^lastmod:", source, flags=re.M):
+            continue
+        timestamp = timestamps[0]
         replacement = "lastmod: " + json.dumps(timestamp)
         converted, count = re.subn(r"^lastmod:.*$", replacement, source, count=1, flags=re.M)
         if not count:

@@ -1,6 +1,7 @@
 ---
 title: "Software Libraries for IFC"
 url: "/ifc-industry-foundation-classes-software-libraries-for-ifc/"
+parent: "/ifc-industry-foundation-classes/"
 aliases: ["/IFC_-_Industry_Foundation_Classes/Software_Libraries_for_IFC/"]
 categories: []
 lastmod: "2023-01-03T11:57:20Z"

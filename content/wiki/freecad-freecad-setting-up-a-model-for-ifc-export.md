@@ -1,6 +1,7 @@
 ---
 title: "FreeCAD setting up a model for IFC export"
 url: "/freecad-freecad-setting-up-a-model-for-ifc-export/"
+parent: "/freecad/"
 aliases: ["/FreeCAD/FreeCAD_setting_up_a_model_for_IFC_export/", "/FreeCAD_setting_up_a_model_for_IFC_export/"]
 categories: ["FreeCAD", "Industry Foundation Classes (IFC)"]
 lastmod: "2022-02-15T08:53:47Z"

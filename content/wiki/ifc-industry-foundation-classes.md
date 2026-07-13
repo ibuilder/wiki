@@ -24,7 +24,7 @@ The majority of BIM programs can read and write IFC data. However, the quality o
 <div style="float: right; margin: 30px;">{{< youtube "https://www.youtube.com/watch?v=kMpzrUJY7LU" >}}</div>
 
 ## Subpages
-
+{{< subpages >}}
 
 ## IFC versions
 There are currently three commonly supported versions of IFC: IFC2X3, IFC4 and more recently IFC4x3. 

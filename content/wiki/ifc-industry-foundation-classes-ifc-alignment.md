@@ -1,6 +1,7 @@
 ---
 title: "IFC alignment"
 url: "/ifc-industry-foundation-classes-ifc-alignment/"
+parent: "/ifc-industry-foundation-classes/"
 aliases: ["/IFC_-_Industry_Foundation_Classes/IFC_alignment/"]
 categories: []
 lastmod: "2024-09-13T19:58:31Z"

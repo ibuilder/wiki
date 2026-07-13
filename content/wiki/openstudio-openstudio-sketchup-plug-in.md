@@ -1,6 +1,7 @@
 ---
 title: "OpenStudio SketchUp Plug-in"
 url: "/openstudio-openstudio-sketchup-plug-in/"
+parent: "/openstudio/"
 aliases: ["/OpenStudio/OpenStudio_SketchUp_Plug-in/"]
 categories: ["OpenStudio"]
 lastmod: "2025-04-24T15:32:32Z"

@@ -1,6 +1,7 @@
 ---
 title: "Revit and IFC classes"
 url: "/revit-setup-for-openbim-revit-and-ifc-classes/"
+parent: "/revit-setup-for-openbim/"
 aliases: ["/Revit_and_IFC_classes/", "/Revit_setup_for_OpenBIM/Revit_and_IFC_classes/"]
 categories: ["Autodesk Revit", "Industry Foundation Classes (IFC)"]
 lastmod: "2022-01-31T10:37:53Z"
