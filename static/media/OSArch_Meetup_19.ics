@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART:20211023T200000Z
+DTEND:20210807T190000Z
+SUMMARY:OSArch Monthly Meetup #19: BridgeLink - Open-Source Bridge Engineering Software by Richard Brice from the Washington State Dept. of Transportation
+URL:https://meet.jit.si/openbim
+DESCRIPTION:This month we are hosting Richard Brice to talk about BridgeLink, an open-source bridge engineer software published by the Washington State Department of Transportation. The flagship application, PGSuper for design, analysis, and load rating of precast, prestressed concrete girder bridges, will be highlighted including recent efforts to support bridge data exchanges with IFC 4x3
+END:VEVENT
+END:VCALENDAR

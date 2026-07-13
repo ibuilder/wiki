@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART:20211113T200000Z
+DTEND:  20211113T210000Z
+SUMMARY:OSArch Monthly Meetup #20: IFC Connector by Frédéric Beaupère
+URL:https://meet.jit.si/openbim
+DESCRIPTION: This Monthly OSArch Meetup features Frédéric Beaupère from ERNE Holzbau presenting IFCconnector, a project that focuses on managing and visualizing BIM data.
+END:VEVENT
+END:VCALENDAR

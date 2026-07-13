@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART:20210703T200000Z
+DTEND:20210703T210000Z
+SUMMARY:OSArch Monthly Meetup #16: Xeokit by Xeolabs
+URL:https://meet.jit.si/openbim
+DESCRIPTION:Great to host Lindsay Kay from xeolabs in our upcoming July's monthly meetup! As the lead developer of xeokit, Lindsay will talk about this open-source web programming toolkit that has been developed for visualizing 3D BIM models in the browser and that is currently used by a number of leading BIM platforms in the AEC industry.
+END:VEVENT
+END:VCALENDAR

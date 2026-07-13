@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART:20210807T180000Z
+DTEND:20210807T190000Z
+SUMMARY:OSArch Monthly Meetup #17: Blender for Architectural Concept Design by Dimitar Pouchnikov, AIA
+URL:https://meet.jit.si/openbim
+DESCRIPTION:Great to host Dimitar Pouchnikov from UHStudio to present on the use of Blender for Architectural Concept Design and discuss what it can offer architects.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+<aside class="wiki-tools" aria-label="Page tools">
+  <div class="wiki-actions">
+    <h2>Contribute</h2>
+    {{ $file := .File.Path }}
+    {{ $edit := printf "%s/edit/%s/%s/%s" site.Params.repository site.Params.repositoryBranch site.Params.contentPath $file }}
+    {{ $history := printf "%s/commits/%s/%s/%s" site.Params.repository site.Params.repositoryBranch site.Params.contentPath $file }}
+    <a href="{{ $edit }}">Edit this page</a>
+    <a href="{{ $history }}">View history</a>
+    <a href="https://community.osarch.org/">Discuss</a>
+  </div>
+  {{ if gt (len .TableOfContents) 32 }}
+  <div class="wiki-toc">
+    <h2>On this page</h2>
+    {{ .TableOfContents }}
+  </div>
+  {{ end }}
+</aside>

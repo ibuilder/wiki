@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="wiki-shell">
+  {{ partial "wiki-nav.html" . }}
+  <main class="wiki-article" data-pagefind-body>
+    <nav class="breadcrumbs" aria-label="Breadcrumb">
+      <a href="/">Wiki</a><span>/</span><a href="/articles/">Articles</a><span>/</span><span>{{ .Title }}</span>
+    </nav>
+    <article>
+      <header class="article-header">
+        <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+        {{ with .Lastmod }}<p class="article-meta">Last updated <time datetime="{{ .Format "2006-01-02" }}">{{ .Format "2 January 2006" }}</time></p>{{ end }}
+      </header>
+      <div class="wiki-content">{{ .Content }}</div>
+      {{ with .GetTerms "categories" }}
+      <footer class="article-categories">
+        <strong>Categories</strong>
+        {{ range . }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
+      </footer>
+      {{ end }}
+    </article>
+  </main>
+  {{ partial "wiki-tools.html" . }}
+</div>
+{{ end }}

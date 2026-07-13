@@ -1,0 +1,26 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "caption" | default "" -}}
+{{- $mode := .Get "mode" | default "inline" -}}
+{{- $align := .Get "align" | default "" -}}
+{{- $width := .Get "width" | default "" -}}
+{{- $height := .Get "height" | default "" -}}
+{{- $link := $src -}}
+{{- if isset .Params "link" -}}{{- $link = .Get "link" -}}{{- end -}}
+{{- $displayWidth := $width -}}
+{{- if hasPrefix $width "upright:" -}}
+  {{- $factor := strings.TrimPrefix "upright:" $width | float -}}
+  {{- $displayWidth = printf "%.0f" (mul 220 $factor) -}}
+{{- else if and (not $width) (or (eq $mode "thumb") (eq $mode "frameless")) -}}
+  {{- $displayWidth = "220" -}}
+{{- end -}}
+{{- if and (not $align) (or (eq $mode "thumb") (eq $mode "frame")) -}}{{- $align = "right" -}}{{- end -}}
+{{- $classes := slice "wiki-image" (printf "wiki-image--%s" $mode) -}}
+{{- if $align -}}{{- $classes = $classes | append (printf "wiki-image--%s" $align) -}}{{- end -}}
+{{- $isFigure := or (eq $mode "thumb") (eq $mode "frame") -}}
+{{- if $isFigure -}}<figure class="{{ delimit $classes " " }}"{{ with $displayWidth }} style="--wiki-image-width: {{ . }}px"{{ end }}>{{- else -}}<span class="{{ delimit $classes " " }}"{{ with $displayWidth }} style="--wiki-image-width: {{ . }}px"{{ end }}>{{- end -}}
+{{- if $link -}}<a href="{{ $link | safeURL }}" class="wiki-image__link">{{- end -}}
+<img src="{{ $src | safeURL }}" alt="{{ $alt }}" loading="lazy" decoding="async"{{ with $displayWidth }} width="{{ . }}"{{ end }}{{ with $height }} height="{{ . }}"{{ end }}>
+{{- if $link -}}</a>{{- end -}}
+{{- if and $isFigure $caption }}<figcaption>{{ $caption }}</figcaption>{{ end -}}
+{{- if $isFigure -}}</figure>{{- else -}}</span>{{- end -}}

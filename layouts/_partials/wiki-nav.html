@@ -1,0 +1,10 @@
+<nav class="wiki-nav" aria-label="Wiki navigation">
+  <h2>Featured pages</h2>
+  {{ range site.Data.featured_pages }}
+    <a href="{{ .url }}">{{ .title }}</a>
+  {{ end }}
+  <h3>Browse by topic</h3>
+  {{ range first 10 site.Taxonomies.categories.ByCount }}
+    <a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }} <small>{{ .Count }}</small></a>
+  {{ end }}
+</nav>

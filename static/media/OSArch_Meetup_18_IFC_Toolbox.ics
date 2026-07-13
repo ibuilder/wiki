@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTART:20210925T200000Z
+DTEND:20210703T210000Z
+SUMMARY:OSArch Monthly Meetup #18: IFC Toolbox by Yousheng Wang
+URL:https://meet.jit.si/openbim
+DESCRIPTION: This Monthly OSArch Meetup features Yousheng Wang from BIM Mars presenting the ins and outs of IFC Toolbox, a set of user-friendly tools to process Industry Foundation Class (IFC) files for automating and facilitating specific tasks.
+END:VEVENT
+END:VCALENDAR

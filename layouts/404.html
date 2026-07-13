@@ -1,0 +1,37 @@
+{{ define "main" }}
+<script>
+(() => {
+  const redirects = {
+    {{- range site.RegularPages }}
+      {{- $target := .RelPermalink -}}
+      {{- printf "%s: %s," (.Title | jsonify) ($target | jsonify) | safeJS }}
+      {{- range .Aliases }}
+        {{- printf "%s: %s," (. | jsonify) ($target | jsonify) | safeJS }}
+      {{- end }}
+    {{- end }}
+  };
+  const lookup = new Map(Object.entries(redirects).map(([key, value]) => [key.toLowerCase(), value]));
+  const title = new URLSearchParams(location.search).get("title");
+  if (title) {
+    const underscored = title.replaceAll(" ", "_");
+    const candidates = [
+      title,
+      `/${underscored}/`,
+      `/${encodeURIComponent(underscored).replaceAll("%2F", "/")}/`
+    ];
+    for (const candidate of candidates) {
+      const target = lookup.get(candidate.toLowerCase());
+      if (target) {
+        location.replace(target + location.hash);
+        return;
+      }
+    }
+  }
+})();
+</script>
+<main class="wiki-article wiki-not-found">
+  <h1>Page not found</h1>
+  <p>The page may have moved during the migration from MediaWiki.</p>
+  <p><a href="/">Return to the wiki</a> or use search to find it.</p>
+</main>
+{{ end }}

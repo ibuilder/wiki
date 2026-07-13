@@ -1,0 +1,13 @@
+{{- $src := .Get "src" -}}
+{{- $poster := .Get "poster" -}}
+{{- $title := .Get "title" | default "Animation" -}}
+{{- $caption := .Get "caption" | default "" -}}
+{{- $align := .Get "align" | default "" -}}
+{{- $width := .Get "width" | default "" -}}
+<figure class="wiki-video{{ with $align }} wiki-video--{{ . }}{{ end }}"{{ with $width }} style="--wiki-video-width: {{ . }}px"{{ end }}>
+  <video controls preload="metadata" playsinline poster="{{ $poster | safeURL }}" aria-label="{{ $title }}"{{ with $width }} width="{{ . }}"{{ end }}>
+    <source src="{{ $src | safeURL }}" type="video/mp4">
+    Your browser does not support embedded video. <a href="{{ $src | safeURL }}">Open the video file</a>.
+  </video>
+  {{- with $caption }}<figcaption>{{ . }}</figcaption>{{ end }}
+</figure>

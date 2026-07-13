@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="wiki-shell">
+  {{ partial "wiki-nav.html" . }}
+  <main class="wiki-article wiki-home" data-pagefind-body>
+    <section class="wiki-hero">
+      <h1>Welcome to the <strong>OSArch Wiki</strong></h1>
+      <p>This is a knowledge base of documentation, directories, workflows, standards, and learning resources for architects, engineers, builders, planners, and professionals interested in free software for the built environment.</p>
+      <p>All content is community contributed. Click the edit button on any page to help, and learn <a href="/how-to-contribute-to-osarch/">how to contribute</a>.</p>
+    </section>
+    <section>
+      <h2>Browse articles</h2>
+      <div class="category-grid">
+        {{ range first 12 site.Taxonomies.categories.ByCount }}
+        <a href="{{ .Page.RelPermalink }}"><strong>{{ .Page.LinkTitle }}</strong><span>{{ .Count }} pages</span></a>
+        {{ end }}
+      </div>
+    </section>
+    <section>
+      <h2>Recently updated</h2>
+      <ul class="recent-list">
+        {{ range first 12 (where site.RegularPages.ByLastmod.Reverse "Section" "wiki") }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ with .Lastmod }}<time>{{ .Format "2 Jan 2006" }}</time>{{ end }}</li>
+        {{ end }}
+      </ul>
+    </section>
+  </main>
+</div>
+{{ end }}

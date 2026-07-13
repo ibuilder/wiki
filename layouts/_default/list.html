@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="wiki-shell">
+  {{ partial "wiki-nav.html" . }}
+  <main class="wiki-article wiki-index">
+    <h1>{{ .Title }}</h1>
+    <p>{{ len .Pages }} pages</p>
+    <ol class="article-list">
+      {{ range .Pages.ByTitle }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>{{ end }}
+    </ol>
+  </main>
+  <aside class="wiki-tools"></aside>
+</div>
+{{ end }}

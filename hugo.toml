@@ -1,0 +1,30 @@
+baseURL = "https://wiki.osarch.org/"
+languageCode = "en-us"
+title = "OSArch Wiki"
+timeZone = "Australia/Sydney"
+disableKinds = ["RSS"]
+copyright = "Except where otherwise noted, content is licensed under CC BY-SA 4.0."
+
+[params]
+  description = "Community-maintained knowledge about free software for architecture, engineering, construction, and operations."
+  repository = "https://github.com/osarchorg/wiki"
+  repositoryBranch = "master"
+  contentPath = "content"
+
+[frontmatter]
+  lastmod = ["lastmod", "date"]
+
+[taxonomies]
+  category = "categories"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false
+
+[outputs]
+  home = ["HTML"]
