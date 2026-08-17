@@ -169,6 +169,7 @@ Geometry scanning and processing relates to the task of laser scanning, as-built
 |  | [IFC Graph Viewer](https://github.com/kiyuka829/ifc-graph-viewer) | Graphics display application for IFC files | [MIT](/mit/) and closed source |
 | {{< wiki-image src="/media/sloth.png" alt="Sloth" mode="inline" width="64" height="64" >}} | [Sloth](/sloth/) | Sloth is a [BIM Collaboration Format (BCF)](/bcf-bim-collaboration-format/) online viewer and report generator. | [MIT](/mit/) |
 |  | [TUM Open Infra Platform](https://github.com/tumcms/Open-Infra-Platform) | TUM Open Infra Platform (OIP in short) is a software for checking and viewing IFC data. It comes with its own EXPRESS parser and C++ classes generator. | [GPL-3.0](/gpl-3-0/) |
+| - | [Massing](https://massing.build) | Open, self-hosted, IFC-native AEC platform spanning acquisition through turnover on a single model. Browser-based IFC authoring built on [IfcOpenShell](/ifcopenshell/) and That Open Fragments, with federated clash detection, IDS validation, [BCF](/bcf-bim-collaboration-format/) round-trip, and generated 2D plans, sections and elevations. Adds an 80-module general contracting portal (RFIs, pay apps, CPM scheduling, COBie closeout) and a development proforma on the same model. Self-hostable via Docker, with desktop builds for Windows, macOS and Linux. Source at [ibuilder/massing](https://github.com/ibuilder/massing). | [MIT](/mit/) |
 ## Analysis and Simulation
 See also [Structural Analysis](/structural-analysis/) & [Environmental Analysis](/learn-about-environmental-analysis/)
 
